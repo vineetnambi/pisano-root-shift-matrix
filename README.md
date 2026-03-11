@@ -1,5 +1,5 @@
 # The 99-State Pisano Root-Shift Matrix
-Author VINEET NAMBI (Independent Research)
+<B>Author: VINEET NAMBI</B> (Independent Research)<br><br>
 A Python implementation of a closed-loop, perfectly bijective Finite State Machine (FSM) operating on the domain of two-digit integers (01 to 99). 
 
 This system utilizes a "Sum-and-Shift" recurrence relation governed by modulo 9 digital roots. It is mathematically isomorphic to the Fibonacci Q-matrix in a finite field, constrained temporally by the Pisano period of modulo 9 (π(9) = 24).
@@ -75,4 +75,5 @@ If you use this mathematics or code in academic research or industrial applicati
 > *[Insert your Name]* (2026). "Topological Properties and Pisano Period of a Modulo 9 Sum-and-Shift Recurrence Matrix". *[Insert DOI or Zenodo Link here once published]*
 
 ## ⚖️ License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
