@@ -72,8 +72,9 @@ Because this algorithm perfectly conserves information without destructive opera
 
 ## 📄 Academic Citation
 If you use this mathematics or code in academic research or industrial applications, please cite the corresponding preprint:
-> *[Insert your Name]* (2026). "Topological Properties and Pisano Period of a Modulo 9 Sum-and-Shift Recurrence Matrix". *[Insert DOI or Zenodo Link here once published]*
+> *VINEET V NAMBI (2026). "Topological Properties and Pisano Period of a Modulo 9 Sum-and-Shift Recurrence Matrix". *[Insert DOI or Zenodo Link here once published]*
 
 ## ⚖️ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
